@@ -37,7 +37,7 @@ void printList(Node* head) {
         }
         temp = temp->next;
     }
-    cout << endl;
+    cout << endl; //print it outtt
 }
 
 // Function to delete the middle node from the linked list
